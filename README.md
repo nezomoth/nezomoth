@@ -13,6 +13,6 @@
 
 ## Projects
 - Sales Performance Dashboard
-- Customer Segmentation Analysis
+- Powerbi-semantic-model
 - Marketing Campaign Analysis
 - KPI Tracking Dashboard
