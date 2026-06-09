@@ -4,11 +4,11 @@
 📊 Data Analyst
 
 ## Skills
-- SQL
-- Power BI
 - Excel
-- Python (Beginner Level)
+- Power BI
 - Data Visualization
+- SQL
+- Python (Beginner Level)
 - Business Intelligence
 
 ## Projects
