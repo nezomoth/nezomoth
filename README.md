@@ -13,6 +13,6 @@
 
 ## Projects
 - Sales Performance Dashboard
-- Powerbi-semantic-model
+- Centralized Power BI Dataset Architecture
 - Marketing Campaign Analysis
 - KPI Tracking Dashboard
