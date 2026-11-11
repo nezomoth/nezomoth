@@ -7,7 +7,7 @@
 - Excel
 - Power BI
 - Data Visualization
-- SQL
+- SQL (Beginner Level)
 - Python (Beginner Level)
 - Business Intelligence
 
